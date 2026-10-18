@@ -1,0 +1,14 @@
+{
+  "name": "phoenix-app",
+  "version": "1.0.0",
+  "description": "Phoenix - backup de arquivos entre discos/pastas",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^44.0.0"
+  }
+}
